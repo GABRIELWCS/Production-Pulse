@@ -147,13 +147,15 @@ Atualização automática dos indicadores
 - Registro de Pallets
 - Indicadores de Produção
 
-*(Adicionar imagens futuramente.)*
+<img width="567" height="703" alt="image" src="https://github.com/user-attachments/assets/b137294f-105c-4839-a1a0-15382db0d935" />
+<img width="574" height="698" alt="image" src="https://github.com/user-attachments/assets/a5490693-d87e-4854-a35e-a45f8ff1890c" />
+<img width="577" height="652" alt="image" src="https://github.com/user-attachments/assets/e6ac9037-1052-4056-89ea-1a6793169182" />
 
 ---
 
 # 👨‍💻 Autor
 
-**Gabriel Willian**
+**Gabriel Souza**
 
 Projeto desenvolvido como iniciativa de melhoria contínua para otimização do processo de apontamento de produção industrial.
 
